@@ -11,3 +11,5 @@ Create a visualization that shows differences among the performance of the baseb
 * Demonstrate the ability to choose optimal visual elements to encode data and critically assess the effectiveness of a visualization
 * Communicate a story or finding to the appropriate audience using interactive visualizations
 * Undergo the iterative process of creating a visualization, and build interactive visualizations with Tableau
+## Visualizations: 
+The actual visualization can be found [here.](https://public.tableau.com/profile/joseph7072#!/vizhome/BaseballData_v2feedback/Story1)
